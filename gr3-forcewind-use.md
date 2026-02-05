@@ -4,3 +4,4 @@ fwd-edu-breakout=github:devanshdixit/pxt-fwd-edu/fwd-breakout
 Dial=github:devanshdixit/pxt-fwd-edu
 ``` 
 ## Activity 1: Let's Start Coding! @showdialog
+Let's build a moving wind turbine!
